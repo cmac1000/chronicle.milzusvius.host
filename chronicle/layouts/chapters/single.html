@@ -1,0 +1,7 @@
+{{ define "main" -}}
+<div class="post">
+    <h1>{{ .Parent.Params.title }} chapter {{ .Page.Params.chapter }}: {{ .Title }}</h1>
+    {{ .Content }}
+</div>
+
+{{- end }}

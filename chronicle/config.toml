@@ -1,0 +1,10 @@
+baseURL = "https://chronicle.milzusvius.host/"
+languageCode = "en-us"
+title = "Milzusvius Chronicle"
+theme = "hyde"
+
+[params]
+  description = " "
+
+[taxonomies]
+  character = "characters"

@@ -2,7 +2,7 @@
 categories:
 - Chapters
 date: "2018-04-01"
-description: Our protagonists meet new friends, new rivals and the veangeful dead.
+description: Our protagonists meet new friends, new rivals and the vengeful dead.
 slug: through-the-barrows
 chapter: 1
 title: Through the Barrows

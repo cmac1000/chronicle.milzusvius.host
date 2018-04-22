@@ -8,7 +8,7 @@ chapter: 3
 tags:
 - the-infernal-macguffin
 title: Certificate...of Adventure
-characters: [
+appearances: [
     "dima",
     "ev",
     "portia",

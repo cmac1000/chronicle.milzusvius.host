@@ -7,4 +7,4 @@ theme = "hyde"
   description = " "
 
 [taxonomies]
-  character = "characters"
+  appearances = "appearances"

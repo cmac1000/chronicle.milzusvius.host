@@ -1,18 +1,13 @@
 {{ define "main" -}}
+{{ .Data.Term }}
 <div class="posts">
     {{ range .Data.Pages -}}
-    {{ if eq .Type "chapters" }}
     <div class="post">
         <h1 class="post-title">
             <a href="{{ .Permalink }}">{{ .Title }}</a>
         </h1>
-        {{ .Description }} {{ if .Truncated }}
-        <div class="read-more-link">
-            <a href="{{ .RelPermalink }}">Read More…</a>
-        </div>
-        {{ end }}
+        {{ .Description }}
     </div>
-    {{ end }}
     {{- end }}
 </div>
 {{- end }}

@@ -6,7 +6,7 @@ description: Our protagonists meet new friends, new rivals and the veangeful dea
 slug: through-the-barrows
 chapter: 1
 title: Through the Barrows
-characters: [
+appearances: [
     "dima",
     "ev",
     "portia",

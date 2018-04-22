@@ -6,7 +6,7 @@ description: A delivery goes poorly.
 chapter: 2
 slug: an-unexpected-rupture
 title: An Unexpected Rupture
-characters: [
+appearances: [
     "barclay-skyless",
     "dima",
     "ev",

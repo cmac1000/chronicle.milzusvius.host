@@ -1,6 +1,7 @@
 {{ define "main" -}}
 <div class="post">
     <h1>{{ .Parent.Params.title }} chapter {{ .Page.Params.chapter }}: {{ .Title }}</h1>
+    <p>{{ .Date.Format "January 2, 2006" }}</p>
     {{ .Content }}
 </div>
 

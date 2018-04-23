@@ -1,8 +1,8 @@
 ---
 categories:
 - Chapters
-date: "2018-04-05"
-description: A delivery goes poorly.
+date: "2018-04-01"
+description: A delivery goes poorly, and sinister forces are abroad.
 chapter: 2
 slug: an-unexpected-rupture
 title: An Unexpected Rupture

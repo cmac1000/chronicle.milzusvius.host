@@ -1,8 +1,19 @@
 {{ define "main" -}}
+
+{{ if eq .Next.Type "chapters" }}
+<a href="{{ .Next.Permalink }}">Previous Chapter: {{ .Next.Title }}</a>
+{{ end }}
+
 <div class="post">
     <h1>{{ .Parent.Params.title }} chapter {{ .Page.Params.chapter }}: {{ .Title }}</h1>
     <p>{{ .Date.Format "January 2, 2006" }}</p>
     {{ .Content }}
 </div>
+
+{{ if eq .Prev.Type "chapters" }}
+<a href="{{ .Prev.Permalink }}">Next Chapter: {{ .Prev.Title }}</a>
+{{ else }}
+<p>What's next for our brave protagonists? Only the fates can say...</p>
+{{ end }}
 
 {{- end }}

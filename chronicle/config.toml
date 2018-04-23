@@ -5,6 +5,7 @@ theme = "hyde"
 
 [params]
   description = " "
+  copyright = " "
 
 [taxonomies]
   appearances = "appearances"

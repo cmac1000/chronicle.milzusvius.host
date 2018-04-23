@@ -1,7 +1,7 @@
 ---
 categories:
 - Chapters
-date: "2018-04-15"
+date: "2018-04-14"
 description: Mercantile dealings and infrastructure-management combat along the waterfront.
 slug: certificate-of-adventure
 chapter: 3

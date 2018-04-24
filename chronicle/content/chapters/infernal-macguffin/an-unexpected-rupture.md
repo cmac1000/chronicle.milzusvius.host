@@ -1,6 +1,4 @@
 ---
-categories:
-- Chapters
 date: "2018-04-01"
 description: A delivery goes poorly, and sinister forces are abroad.
 chapter: 2

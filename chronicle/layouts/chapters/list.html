@@ -1,0 +1,18 @@
+{{ define "main" -}}
+<h1>Volume {{ .Params.volume }}: {{ .Title }}</h1>
+{{ .Content }}
+<hr />
+<div class="posts">
+    {{ range .Data.Pages.ByDate -}} {{ if eq .Type "chapters" }}
+    <div class="post">
+        <h2 class="post-title">
+            <a href="{{ .Permalink }}">Chapter {{ .Params.chapter }}: {{ .Title }}</a>
+        </h2>
+        <p>{{ .Description }}</p>
+        <div class="read-more-link">
+            <a href="{{ .RelPermalink }}">Read More…</a>
+        </div>
+    </div>
+    {{ end }} {{- end }}
+</div>
+{{- end }}

@@ -1,9 +1,9 @@
----
-description: Xalros is one of a handful of Svirfneblin living in Waterdeep, and is a researcher for the Temple of St. Milzusvius.
-title: Xalros
-race: Deep Gnome
-class: Divination Wizard
----
+{
+"description": "Xalros is one of a handful of Svirfneblin living in Waterdeep, and is a researcher for the Temple of St. Milzusvius.",
+"title": "Xalros",
+"race": "Deep Gnome",
+"class": "Divination Wizard"
+}
 
 Xalros is one of a handful of Svirfneblin living in Waterdeep, and is a researcher for the Temple of St. Milzusvius.
 

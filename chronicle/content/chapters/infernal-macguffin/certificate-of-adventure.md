@@ -49,11 +49,10 @@ At the Garland branch office, Portia and Dima cash in their pork futures, and th
 
 The party enters the sewers and scouts the tunnels, finding a mimic and a pile of blood-stained trash in an underground room, underneath a ladder and trapdoor. They spy the local otyugh slinking around a corner, and Ev manages to hit it with a surprise crossbow bolt. Combat ensues, and the party defeats the otyugh with a stylish divine smite from Portia. Two remaining mimics, having unsuccessfully attempted to dine on yak, flee through a sewer grate into the harbor. With further inspection and scouting, the party discovers:
 
-* a sealed map case. The map, when examined, contains notes on individuals (the only one the party can decipher is a description of the now-dead Barclay), a large "S" near Barclay's office, and a set of "E" markings, with door glyphs, at sites spread around the northeast of the office, in neighborhoods of varying lousiness.
+* a sealed map case. The map, when examined, contains notes on individuals (the only one the party can decipher is a description of the now-dead Barclay), a large "S" near Barclay's office, and a set of "E" markings, with door glyphs, at sites spread around the northeast of the office, in neighborhoods of varying lousiness. (The map is found amongst a pile of clothes with the seal of House Goldwater, a second-tier noble house with old money from the cattle trade).
 * the not-very-recent remains of a few more otyughs
 * another ladder-and-trapdoor room, this one with less evidence of grisly goings-on.
 * glorious cash
 * a small box with the emblem of the Rolling Bones. Portia deftly snags it and presents an excellent poker face.
-
 
 The party heads back to House Garland, presents evidence of mission success, and opens the promised line of credit.

@@ -14,11 +14,11 @@
     "title": "An Unexpected Rupture"
 }
 
-Having fought off the undead attack, the party disables the remaining traps planted by [Sunega](/characters/sunega.md) and investigates the box. [Zirfiel](/characters/zirfiel.md) discovers that the box is a phylactery covered in infernal script, warning against opening. Having successfully suggested to Sunega that the box belongs in a museum, the party heads towards Waterdeep.
+Having fought off the undead attack, the party disables the remaining traps planted by [Sunega](/characters/sunega/) and investigates the box. [Zirfiel](/characters/zirfiel/) discovers that the box is a phylactery covered in infernal script, warning against opening. Having successfully suggested to Sunega that the box belongs in a museum, the party heads towards Waterdeep.
 
-Zirfiel and [Ev](/characters/ev.md) decide to, and then decide not to, murder Sunega.
+Zirfiel and [Ev](/characters/ev/) decide to, and then decide not to, murder Sunega.
 
-The party, along with Sunega and her thugs, enter Waterdeep and head into the northern neighborhoods, ending up at the building where Ev arranged to drop the package to [Barclay](/characters/barclay.md). Upon inspection, they discover that Barclay is dead, having seemingly exploded. Investigation reveals the following:
+The party, along with Sunega and her thugs, enter Waterdeep and head into the northern neighborhoods, ending up at the building where Ev arranged to drop the package to [Barclay](/characters/barclay/). Upon inspection, they discover that Barclay is dead, having seemingly exploded. Investigation reveals the following:
 
 * a sense of infernal presence
 * in a secret compartment in Barclay's office desk, books of speculation on links between Waterdeep houses and the internal hierarchy
@@ -26,7 +26,7 @@ The party, along with Sunega and her thugs, enter Waterdeep and head into the no
 
 Zirfiel writes Sunega a receipt from the "Barclay Museum" acknowledging delivery of the box. Sunega exits.
 
-The party discusses what to do next. Zirfiel reveals the sinister nature of the box, and recommends delivery to his temple, which specializes in handling dangerous artifacts. He tells [Dima](/characters/dima.md) and [Portia](/characters/portia.md) that they will likely be rewarded for their efforts by the temple, and Ev that the temple can probably help figure out whatever information she was hoping to gain from Barclay.
+The party discusses what to do next. Zirfiel reveals the sinister nature of the box, and recommends delivery to his temple, which specializes in handling dangerous artifacts. He tells [Dima](/characters/dima/) and [Portia](/characters/portia/) that they will likely be rewarded for their efforts by the temple, and Ev that the temple can probably help figure out whatever information she was hoping to gain from Barclay.
 
 Dima and Portia are unenthusiastic about this plan, but recognize that this is a lousy neighborhood and sticking together is probably wise in the short term.
 
@@ -39,7 +39,7 @@ The party notices that the thugs seem to be unresponsive on the street below, an
 
 A band of kenku materializes, demanding the box. Combat ensues, in which two kenku escape, and the remainder are killed. The party cover the box with the robe of one of the kenku.
 
-The party goes to the Temple of St. Milzusvius, being waylaid on the way for a small bribe (which they pay) by a city watch guard. Zirfiel presents his credentials to [Burns](/characters/burns.md), the temple's gate watchman. The party surrender their weapons and enter the temple. Following standard artifact protocol, Zirfiel leads the way toward the administrative building, where his commanding officer, [Luth](/characters/luth.md), works.
+The party goes to the Temple of St. Milzusvius, being waylaid on the way for a small bribe (which they pay) by a city watch guard. Zirfiel presents his credentials to [Burns](/characters/burns/), the temple's gate watchman. The party surrender their weapons and enter the temple. Following standard artifact protocol, Zirfiel leads the way toward the administrative building, where his commanding officer, [Luth](/characters/luth/), works.
 
 > ## The Legend of St. Milzusvius
 

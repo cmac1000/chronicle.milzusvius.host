@@ -105,7 +105,7 @@ class Transformer(object):
                 substring = self._get_current_substring()
                 slug = self.unseen_slugs.pop(
                     self.unseen_slugs.index(substring.lower()))
-                link_string = '[{}](/characters/{}.md)'.format(substring, slug)
+                link_string = '[{}](/characters/{}/)'.format(substring, slug)
                 before = self.markdown[self.line_index][:
                                                         self.beginning_of_name]
                 after = self.markdown[self.line_index][

@@ -5,7 +5,6 @@
     "title": "The Sunken City"
 }
 
-
 Having cleared the local sewers of the otyugh threat, our heroes decide to further investigate the mysterious map they've obtained.
 
 Ascertaining the rough direction of the nearest door glyph, they leave the waterfront behind, as the sun dips lower in the sky. Crossing a warehouse district, they come across the protest leader they'd encountered on the way in, receiving some rough treatment from some city watchmen. With a series of illusions, they convince the guards that a small dragon is crunching its way towards them, and scare them into fleeing. They leave the man, Aeo Goldwatcher, behind.

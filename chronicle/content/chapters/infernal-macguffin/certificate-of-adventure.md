@@ -1,18 +1,16 @@
----
-date: "2018-04-14"
-description: Mercantile dealings and infrastructure-management combat along the waterfront.
-slug: certificate-of-adventure
-chapter: 3
-tags:
-- the-infernal-macguffin
-title: Certificate...of Adventure
-appearances: [
-    "dima",
-    "ev",
-    "portia",
-    "zirfiel",
-]
----
+{
+    "appearances": [
+        "dima",
+        "ev",
+        "portia",
+        "zirfiel"
+    ],
+    "chapter": 3,
+    "date": "2018-04-14",
+    "description": "Mercantile dealings and infrastructure-management combat along the waterfront.",
+    "slug": "certificate-of-adventure",
+    "title": "Certificate...of Adventure"
+}
 
 Morning: The party convenes in the refectory of the Temple of St. Milzusvius, after a series of off-screen individual episodes. They discuss the events of the previous day and the evidence gathered about House Skyless and the other noble houses of Waterdeep. Briefly:
 
@@ -24,9 +22,9 @@ Morning: The party convenes in the refectory of the Temple of St. Milzusvius, af
 
 > Over the last few decades, ambitious second-tier families such as House Garland (with its banking enterprises) and House Carivi (with its commodities holdings) have risen in prominence, giving rise to consideration of non-noble ascension to the Masked Council, the traditional locus of top-tier political power in the city. This rise (and the relative decline of the formerly-undisputed power of the top-tier houses) has been disruptive to the traditional management of the city.
 
-> According to rumours from the books of speculation the party recovered from Barclay's office desk, there are long-standing connections between House Skyless and the infernal hierarchy of the Nine Hells.
+> According to rumours from the books of speculation the party recovered from [Barclay](/characters/barclay.md)'s office desk, there are long-standing connections between House Skyless and the infernal hierarchy of the Nine Hells.
 
-Zirfiel and Ev discuss the significance of Barclay's correspondence with his sister. Portia and Dima agree that the mystery of the Skyless-Devil connection seems worth investigating, but want first to handle their outstanding business with House Garland. The party agrees to head to a waterfront district, to the nearest House Garland branch office.
+[Zirfiel](/characters/zirfiel.md) and [Ev](/characters/ev.md) discuss the significance of Barclay's correspondence with his sister. [Portia](/characters/portia.md) and [Dima](/characters/dima.md) agree that the mystery of the Skyless-Devil connection seems worth investigating, but want first to handle their outstanding business with House Garland. The party agrees to head to a waterfront district, to the nearest House Garland branch office.
 
 After a quick stop at a local market to procure minor equipment upgrades, very sexy armor, ammunition and material components, the party heads to the waterfront, taking a circituitous path. They notice:
 

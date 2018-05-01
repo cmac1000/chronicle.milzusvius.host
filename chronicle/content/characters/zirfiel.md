@@ -1,10 +1,10 @@
----
-description: Zirfiel is a tiefling bard, with a background as an officer in the Special Tasks Group for the Temple of St. Milzusvius.
-title: "Zirfiel"
-race: Tiefling
-class: Lore Bard
-weight: 100
----
+{
+"description": "Zirfiel is a tiefling bard, with a background as an officer in the Special Tasks Group for the Temple of St. Milzusvius.",
+"title": "Zirfiel",
+"race": "Tiefling",
+"class": "Lore Bard",
+"weight": "100"
+}
 
 The Temple of St. Milzusvius rarely recruits openly: as a cult of Oghma, a god of knowledge, the clergy considers the first test of parishioners to be deciphering the existence and location of the temple. Tieflings are seldom welcomed in human society, and from his youth Zirfiel had developed an aptitude for defensive combat and a curiosity about his origins. After exhausting the knowledge (and patience) of the city's secular researchers, Zirfiel found his way to the Milzusvians.
 

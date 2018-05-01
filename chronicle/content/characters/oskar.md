@@ -1,9 +1,9 @@
----
-description: "Oskar is a former gladiator working off a servitude contract for the Waterdeep Smith's Guild."
-title: "Oskar"
-race: Mountain Dwarf
-class: Champion Fighter
----
+{
+"description": "Oskar is a former gladiator working off a servitude contract for the Waterdeep Smith's Guild.",
+"title": "Oskar",
+"race": "Mountain Dwarf",
+"class": "Champion Fighter"
+}
 
 Oksar Ungart was in his clan's army that marched to fight for an ally 80 years ago.
 

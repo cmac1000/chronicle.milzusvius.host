@@ -2,7 +2,11 @@
     "chapter": 4,
     "date": "2018-04-29",
     "description": "Wonder and terror in the depths of Waterdeep.",
-    "title": "The Sunken City"
+    "title": "The Sunken City",
+    "image":{
+        "author": "pxhere",
+        "attribution_url": "https://pxhere.com/en/photo/785632"
+    }
 }
 
 Having cleared the local sewers of the otyugh threat, our heroes decide to further investigate the mysterious map they've obtained.

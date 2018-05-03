@@ -8,8 +8,11 @@
     "chapter": 3,
     "date": "2018-04-14",
     "description": "Mercantile dealings and infrastructure-management combat along the waterfront.",
-    "slug": "certificate-of-adventure",
-    "title": "Certificate...of Adventure"
+    "title": "Certificate...of Adventure",
+    "image":{
+        "author": "Job Adriaenszoon Berckheyde",
+        "attribution_url": "https://hart.amsterdam/nl/collectie/object/amcollect/38024"
+    }
 }
 
 Morning: The party convenes in the refectory of the Temple of St. Milzusvius, after a series of off-screen individual episodes. They discuss the events of the previous day and the evidence gathered about House Skyless and the other noble houses of Waterdeep. Briefly:

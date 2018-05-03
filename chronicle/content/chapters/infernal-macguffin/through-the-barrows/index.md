@@ -11,7 +11,11 @@
     "date": "2018-03-26",
     "description": "Our protagonists meet new friends, new rivals and the vengeful dead.",
     "slug": "through-the-barrows",
-    "title": "Through the Barrows"
+    "title": "Through the Barrows",
+    "image":{
+        "author": "Shaun Dunphy",
+        "attribution_url": "https://www.flickr.com/photos/sjdunphy/5127916747/"
+    }
 }
 
 [Dima](/characters/dima/), [Portia](/characters/portia/) and [Rael](/characters/rael/) make it to the coast, where a vessel awaits to receive the Cooperstown pork shipment. Rael negotiates passage as a navigator, and leaves Dima and Portia to cross overland.

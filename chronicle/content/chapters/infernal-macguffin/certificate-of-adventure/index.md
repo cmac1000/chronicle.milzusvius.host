@@ -8,7 +8,6 @@
     "chapter": 3,
     "date": "2018-04-14",
     "description": "Mercantile dealings and infrastructure-management combat along the waterfront.",
-    "slug": "certificate-of-adventure",
     "title": "Certificate...of Adventure",
     "image":{
         "author": "Job Adriaenszoon Berckheyde",

@@ -10,7 +10,6 @@
     "chapter": 1,
     "date": "2018-03-26",
     "description": "Our protagonists meet new friends, new rivals and the vengeful dead.",
-    "slug": "through-the-barrows",
     "title": "Through the Barrows",
     "image":{
         "author": "Shaun Dunphy",

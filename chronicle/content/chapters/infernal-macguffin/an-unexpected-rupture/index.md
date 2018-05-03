@@ -10,7 +10,6 @@
     "chapter": 2,
     "date": "2018-04-01",
     "description": "A delivery goes poorly, and sinister forces are abroad.",
-    "slug": "an-unexpected-rupture",
     "title": "An Unexpected Rupture",
     "image":{
         "author": "Wendy",

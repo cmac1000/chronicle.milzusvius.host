@@ -7,12 +7,6 @@
 <div class="post">
     <h1>{{ .Parent.Params.title }} chapter {{ .Page.Params.chapter }}: {{ .Title }}</h1>
     <p>{{ .Date.Format "January 2, 2006" }}</p>
-    {{ with .Resources.ByType "image" }}
-    {{ range . }}
-    {{ $image := .Fill "800x600 Bottom" }}
-    <img src="{{ $image.RelPermalink }}" />
-    {{ end }}
-    {{ end }}
     {{ .Content }}
 </div>
 
@@ -22,13 +16,4 @@
 <p>What's next for our brave protagonists? Only the fates can say...</p>
 {{ end }}
 
-{{ if .Params.image }}
-<hr />
-<div class="footer">
-<p>Image credit:
-    <a href="{{ .Params.image.attribution_url }}">{{ .Params.image.author }}</a>
-</p>
-
-</div>
-{{ end }}
 {{- end }}

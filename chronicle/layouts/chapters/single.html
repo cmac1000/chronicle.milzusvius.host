@@ -10,7 +10,7 @@
     {{ with .Resources.ByType "image" }}
     {{ range . }}
     {{ $image := .Fill "800x600 Bottom" }}
-    <img src="{{ $image.RelPermalink }}" />
+    <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" width=800 height=600/>
     {{ end }}
     {{ end }}
     {{ .Content }}

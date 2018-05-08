@@ -2,16 +2,16 @@
     "chapter": 1,
     "date": "2017-11-18T12:59:22-04:00",
     "description": "A thaumatalurgical job interview on the trade road.",
-    "title": "Due Diligence",
-    "image":{
-        "author": "Marc Pascual",
-        "attribution_url": "https://pixabay.com/en/snail-shell-spiral-molluscum-2092859/"
-    }
+    "image": {
+        "attribution_url": "https://pixabay.com/en/snail-shell-spiral-molluscum-2092859/",
+        "author": "Marc Pascual"
+    },
+    "title": "Due Diligence"
 }
 
 The sun shines brightly over the Querulous Woodsman as a slim figure approaches. Their features are fine, even strangely beautiful, but something unidentifiable glints behind their eyes.
 
-Rael casts an appraising look down the empty trade road, the fork in the road labelled "Cooperstown", and the mute evergreens rustling beyond. After a long moment, she seems to come to a decision, and walks swiftly into the inn.
+[Rael](/characters/rael/) casts an appraising look down the empty trade road, the fork in the road labelled "Cooperstown", and the mute evergreens rustling beyond. After a long moment, she seems to come to a decision, and walks swiftly into the inn.
 
 Telford Quinn rarely gets many guests, but he's always happy to see a paying customer (and he got two already this week!) He's unclear, yet, if this one qualifies. This young...man, he decides.
 
@@ -69,11 +69,11 @@ The ranger is on his feet, his hand on the handle of a holstered shortsword. "Da
 
 The halfling smiles and waves him down.
 
-"Never hurts to have a good blaster at your side, Dima."
+"Never hurts to have a good blaster at your side, [Dima](/characters/dima/)."
 
 She streches out a hand.
 
-"I'm Portia Foggsgate, paladin cadet, Rolling Bones. This is Dima. If you're interested, you're welcome to join us."
+"I'm [Portia](/characters/portia/) Foggsgate, paladin cadet, Rolling Bones. This is Dima. If you're interested, you're welcome to join us."
 
 Rael smiles, cautiously, and accepts the firm handshake. "Rael," she says, "and I'm ready to go."
 

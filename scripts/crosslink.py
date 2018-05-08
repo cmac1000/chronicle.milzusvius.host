@@ -86,8 +86,11 @@ class Transformer(object):
                     break
             link_string = self.markdown[self.line_index][beginning_of_link:
                                                          end_of_link + 1]
-            slug = link_string.split('characters/')[1].split('.md')[0]
-            self.unseen_slugs.pop(self.unseen_slugs.index(slug))
+
+            if 'characters/' in link_string:
+                slug = link_string.split('characters/')[1].split('/')[0]
+                self.unseen_slugs.pop(self.unseen_slugs.index(slug))
+
             self.character_index = self.character_index + len(link_string)
             return
 
@@ -151,7 +154,6 @@ def find_json_boundaries(content):
     for i, l in enumerate(content):
         if l.strip() == '}' and beginning_of_json is not None:
             end_of_json = i + 1
-            break
 
     if beginning_of_json is None or end_of_json is None:
         raise FormatError()
@@ -188,8 +190,11 @@ def get_chapter_paths(chap_dir):
     paths = []
     for root, dirs, files in os.walk(chap_dir):
         for filename in files:
-            if filename != '_index.md':
-                paths.append(os.path.join(root, filename))
+            if filename == '_index.md':
+                continue
+            if filename[-3:] != '.md':
+                continue
+            paths.append(os.path.join(root, filename))
 
     return paths
 
@@ -220,6 +225,7 @@ def ensure_cross_link(chapter_path, characters):
     try:
         front_matter = json.loads(json_string)
     except json.decoder.JSONDecodeError:
+        print(json_string)
         print("can't decode json: {}".format(chapter_path))
         sys.exit(1)
 

@@ -10,11 +10,11 @@
     "chapter": 2,
     "date": "2018-04-01",
     "description": "A delivery goes poorly, and sinister forces are abroad.",
-    "title": "An Unexpected Rupture",
-    "image":{
-        "author": "Wendy",
-        "attribution_url": "https://www.flickr.com/photos/30218049@N00/17043767192"
-    }
+    "image": {
+        "attribution_url": "https://www.flickr.com/photos/30218049@N00/17043767192",
+        "author": "Wendy"
+    },
+    "title": "An Unexpected Rupture"
 }
 
 Having fought off the undead attack, the party disables the remaining traps planted by [Sunega](/characters/sunega/) and investigates the box. [Zirfiel](/characters/zirfiel/) discovers that the box is a phylactery covered in infernal script, warning against opening. Having successfully suggested to Sunega that the box belongs in a museum, the party heads towards Waterdeep.

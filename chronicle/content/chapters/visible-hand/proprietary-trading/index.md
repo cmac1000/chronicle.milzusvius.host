@@ -1,7 +1,7 @@
 {
     "chapter": 2,
     "date": "2017-11-30T19:18:10-04:00",
-    "description": "Our heroes face fresh peril...",
+    "description": "A challenge is accepted.",
     "image": {
         "attribution_url": "https://www.wikidata.org/wiki/Q29955843",
         "author": "Pieter Aertsen"

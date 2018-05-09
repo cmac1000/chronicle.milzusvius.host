@@ -11,7 +11,7 @@
 
 It feels good to be in the field, finally. This is her chance.
 
-[Portia](/characters/portia/) knows the Rolling Bones wasn't the most prestigious paladin order - and she'd gotten enough reactions now, travelling, to know that a lot of people suspect it isn't far removed from a mercenary company. Portia isn't worried about this - the order had always taken care of her, and it always seemed to be on the right side of the conflicts it got involved in. Well, at least not the evil side.
+[Portia](/characters/portia/) knows the Rolling Bones isn't the most prestigious paladin order - and she's gotten enough reactions now, travelling, to know that a lot of people suspect it isn't far removed from a mercenary company. Portia isn't worried about this - the order has always taken care of her, and it always seems to be on the right side of the conflicts it got involved in. Well, at least not the evil side.
 
 And she's ready. There aren't many halflings in the order, but she knows she's good. The drills, the lessons, the apprenticeship - everyone knows Portia Foggsgate works harder than anyone else. When Kragarm told her it was time to find a journeyman mission, she didn't cry, she didn't hug anyone - she just nodded, crisply, and packed.
 

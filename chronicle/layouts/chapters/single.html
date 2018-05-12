@@ -5,8 +5,11 @@
 {{ end }}
 
 <div class="post">
-    <h1>{{ .Parent.Params.title }} chapter {{ .Page.Params.chapter }}: {{ .Title }}</h1>
-    <p>{{ .Date.Format "January 2, 2006" }}</p>
+    <div class="post-header">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Parent.Params.title }}, Chapter {{ .Page.Params.chapter }}</p>
+    </div>
+
     {{ with .Resources.ByType "image" }}
     {{ range . }}
     {{ $image := .Fill "800x600 Bottom" }}
@@ -25,6 +28,7 @@
 {{ if .Params.image }}
 <hr />
 <div class="footer">
+<p>Date: {{ .Date.Format "January 2, 2006" }}</p>
 <p>Image credit:
     <a href="{{ .Params.image.attribution_url }}">{{ .Params.image.author }}</a>
 </p>

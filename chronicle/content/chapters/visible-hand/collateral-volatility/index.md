@@ -5,11 +5,11 @@
     "image": {
         "attribution_url": "https://pxhere.com/en/photo/335157",
         "author": "pxhere"
-    },    
+    },
     "title": "Collateral Volatility"
 }
 
-As predicted, Dima finds the trail easily. Silently pointing out broken twigs and scattered gravel, he stalks into the sheltering firs. After a moment, his companions join him. Soon, the scents of woodsmoke, livestock and tilled earth fade, replaced by juniper and sage. Birds rustle through the distant canopy, and a sense of hushed alertness slowly permeates the air.
+As predicted, [Dima](/characters/dima/) finds the trail easily. Silently pointing out broken twigs and scattered gravel, he stalks into the sheltering firs. After a moment, his companions join him. Soon, the scents of woodsmoke, livestock and tilled earth fade, replaced by juniper and sage. Birds rustle through the distant canopy, and a sense of hushed alertness slowly permeates the air.
 
 > When summer in the mountains gains its peak,
 
@@ -23,7 +23,7 @@ Dima's mind, in times like these, moves gently. Slowly, calmly; the shape of a p
 
 There. That one's moving wrong.
 
-Walking some distance behind, Portia and Rael see Dima freeze, for an instant, and vanish. Hurrying up, they see him flat behind a log, gesturing for silence and stillness, and they nod and comply. Slowly, slowly, Dima finds a gap, and raises up, arrow drawn, to find...
+Walking some distance behind, [Portia](/characters/portia/) and [Rael](/characters/rael/) see Dima freeze, for an instant, and vanish. Hurrying up, they see him flat behind a log, gesturing for silence and stillness, and they nod and comply. Slowly, slowly, Dima finds a gap, and raises up, arrow drawn, to find...
 
 A toad, silent and staring, perched on a rock, thirty feet distant. Dima and the toad regard each other, and Dima knows, to his core, that it's deeply wrong. Shouldn't be here, shouldn't be acting this way. Dark magic.
 

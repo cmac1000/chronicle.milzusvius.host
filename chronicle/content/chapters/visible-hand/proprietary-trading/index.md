@@ -66,3 +66,19 @@ Rael shows heretofore unseen charm when the subject of payment is raised, and th
 Lady Carivi rises to leave.
 
 "Have you tried our pork yet, by the way? It's no wonder those little guys go crazy for it."
+
+---
+
+The next day, before setting forth on their quest to vanquish the goblin threat, the party considers their knowledge and resources. They know the following information:
+
+1. Goblins generally operate from caves, a good distance from settlements. Given the geography of the valley and the locations of known attacks, this group's main base is likely along the northern edge of the valley, about a day's journey away.
+2. The injured goblin from the previous day's fight probably headed straight home - goblins are stealthy, but this one was in bad shape, and Dima's a good tracker. The party can likely follow his trail.
+
+And Cooperstown has the following potential resources:
+
+1. The market sells useful, though mundane, supplies, and Lady Carivi's agreed to advance credit.
+2. The banker, Derell Garland, has an interest in safe pork delivery, and might be willing to enter into a side deal.
+
+Accordingly, our heroes run a few errands. Mr. Garland is sympathetic to their mission, but seems, banker-like, unlikely to easily part with money. He does offer future work through House Garland, and urges them to find a branch office in Waterdeep the next time they find themselves there.
+
+The market yields a bit more - Dima acquires some hunting traps, Portia stocks up on javelins, and Rael seems interested in glass bottles and flasks of oil. Thus equipped, the trio heads back to Joseph Helias' farm to pick up the trail.

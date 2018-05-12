@@ -1,3 +1,11 @@
 div.footer p {
   font-size: 12px;
 }
+
+div.post-header {
+  text-align: center;
+}
+
+div.post-header h1 {
+  font-size: 4rem;
+}

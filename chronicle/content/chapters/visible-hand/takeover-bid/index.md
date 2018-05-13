@@ -5,11 +5,11 @@
     "image": {
         "attribution_url": "https://pixabay.com/en/cave-nature-landscape-shelter-1642215/",
         "author": "Pezibear"
-    },    
+    },
     "title": "Takeover Bid"
 }
 
-Our heroes decide to make a stand on the hilltop, and get to work on fortifications. On the eastern approaches, Dima lays his two hunting traps. Portia constructs a rolling log trap, held in place by a single rope. Rael methodically fills glass bottles with oil, stoppers them with cloth, and arranges them in a neat row behind a boulder. She builds a small, concealed fire, careful to keep it well-separated from her makeshift molotovs.
+Our heroes decide to make a stand on the hilltop, and get to work on fortifications. On the eastern approaches, [Dima](/characters/dima/) lays his two hunting traps. [Portia](/characters/portia/) constructs a rolling log trap, held in place by a single rope. [Rael](/characters/rael/) methodically fills glass bottles with oil, stoppers them with cloth, and arranges them in a neat row behind a boulder. She builds a small, concealed fire, careful to keep it well-separated from her makeshift molotovs.
 
 The trio huddles together in a clump of trees and rocks near the top of the most obvious approach to the hilltop, and wait.
 

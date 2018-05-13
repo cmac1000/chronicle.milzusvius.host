@@ -65,7 +65,7 @@ class Transformer(object):
 
     def _step(self):
         self.iterations = self.iterations + 1
-        if self.iterations > 10000:
+        if self.iterations > 100000:
             assert False
 
         if self._end_of_markdown():

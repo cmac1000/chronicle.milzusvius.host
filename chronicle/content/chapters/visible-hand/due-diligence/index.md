@@ -127,7 +127,7 @@ Dima, moving quickly, makes it to the window in time to get a single shot off, w
 
 The farmer, Joseph Helias, thanks the party for their efforts, and does produce payment - but to their surprise, he offers not coins, but slips of paper marked with large calligraphic 'G's.
 
-A shadow crosses Dima's face as he regards these documents. "Silver, I believe you said. And where I am from, a man's word is his bond."
+A shadow crosses Dima's face as he regards these documents. "Silver, you said. Where I am from, man's word is bond."
 
 "Ah, not from around here? It's a new century, my friends! If you we're in the pork game, you'd know what these are. Pork futures! Backed by the banking houses, good as gold!"
 

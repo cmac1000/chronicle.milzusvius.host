@@ -5,13 +5,13 @@
     "image": {
         "attribution_url": "https://www.flickr.com/photos/travelwayoflife/8052522211/",
         "author": "travelwayoflife"
-    },    
+    },
     "title": "Revealed Assets"
 }
 
-After recovering from their injuries, the party searches the goblin cave. Rael investigates the stonework in the older section, pronouncing it to be very old, and likely dwarven work. The shape of this structure suggests a temple, with a long-collapsed entrance - the natural cave seems to have eroded a side wall, re-opening the chamber.
+After recovering from their injuries, the party searches the goblin cave. [Rael](/characters/rael/) investigates the stonework in the older section, pronouncing it to be very old, and likely dwarven work. The shape of this structure suggests a temple, with a long-collapsed entrance - the natural cave seems to have eroded a side wall, re-opening the chamber.
 
-Clearing the goblinoid detritus away from the altar reveals a totem - a shaggy head, cut from stone, stares unblinking back at Portia. It's unmistakably a yak.
+Clearing the goblinoid detritus away from the altar reveals a totem - a shaggy head, cut from stone, stares unblinking back at [Portia](/characters/portia/). It's unmistakably a yak.
 
 Further investigation reveals small caches of silver and gold, as well as a side room full of pork barrels in various states of consumption.
 
@@ -29,7 +29,7 @@ The wood elf nods, her eyes briefly alighting on Rael's pointed ears, then on th
 
 "That is well, and you are welcome among us. I am Zeno Aralamin, and I lead the circle of the yak here in the valley."
 
-Dima starts, and Zeno smiles at him.
+[Dima](/characters/dima/) starts, and Zeno smiles at him.
 
 "You are the one, I think, who woke the valley with that yak call yesterday? We came when we heard."
 

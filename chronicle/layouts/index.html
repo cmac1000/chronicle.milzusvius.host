@@ -2,8 +2,8 @@
 <h1>Recent Chapters</h1>
 <hr />
 <div class="posts">
-    {{ range .Data.Pages -}}
-    {{ if eq .Type "chapters" }}
+    {{ $pag := .Paginate (where .Data.Pages "Section" "chapters" ) }}
+    {{ range $index, $element := $pag.Pages }}
     <div class="post">
         <h2 class="post-title">
             <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -13,7 +13,15 @@
             <a href="{{ .RelPermalink }}">Read More…</a>
         </div>
     </div>
-    {{ end }}
     {{- end }}
 </div>
+{{ $pag := $.Paginator }} {{ if gt $pag.TotalPages 1 }}
+<div class="pagination" role="navigation">
+    {{ if $pag.HasPrev }}
+    <a class = "pagination-item" href="{{ $pag.Prev.URL }}">&larr; Later Chapters</a>
+    {{ end }} {{ if $pag.HasNext }}
+    <a class = "pagination-item" href="{{ $pag.Next.URL }}">Earlier Chapters &rarr;</a>
+    {{ end }}
+</div>
+{{ end }}
 {{- end }}

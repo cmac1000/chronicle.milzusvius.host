@@ -1,8 +1,6 @@
 {
-    "class": "Unknown",
-    "description": "very little is known about Sunega",
+    "class": "Berserker",
+    "description": "An enforcer for the Zhentarim, Sunega accepted a contract to find and deliver a mysterious box being retrieved from the barrows.",
     "title": "Sunega",
-    "race": "Unknown"
+    "race": "Gnome"
 }
-
-Sunega is an enigmatic figure. Their backstory and motivations, so far, can only be guessed at.

@@ -44,7 +44,7 @@ Ev starts surrendering her always-surprising collection of concealed weaponry, b
 
 On the way to Luth's office, Zirfiel passes a small group of senior Special Tasks officers, nodding professionally to him, and looking set on a recently-acquired mission.
 
-The party debriefs with Luth, reporting almost everything they'd recently seen: the sunken city, the further evidence of Skyless-Devil cooperation, the encounter with Galrach and the demons in the depths. Zirfiel elides the coincidence of the yak bell's cracking with the earthquake. Luth nods, taking careful notes, and thanks the party for their work.
+The party debriefs with Luth, reporting almost everything they'd recently seen: the sunken city, the further evidence of Skyless-Devil cooperation, the encounter with [Galrach](/characters/galrach/) and the demons in the depths. Zirfiel elides the coincidence of the yak bell's cracking with the earthquake. Luth nods, taking careful notes, and thanks the party for their work.
 
 The party gets some sleep, and has several interactions:
 

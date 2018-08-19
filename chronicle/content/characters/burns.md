@@ -1,8 +1,6 @@
 {
-    "class": "Unknown",
-    "description": "very little is known about Burns",
+    "class": "Temple Guardian",
+    "description": "Burns is a longtime member of the Temple of St. Milsuzvius. He rarely makes it into the field these days, but handles physical security for the temple and can often be found keeping an eye on the front gate.",
     "title": "Burns",
-    "race": "Unknown"
+    "race": "Human"
 }
-
-Burns is an enigmatic figure. Their backstory and motivations, so far, can only be guessed at.

@@ -1,0 +1,13 @@
+{{ define "main" -}}
+
+<div class="post">
+    <div class="post-header">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Params.race }} {{ .Params.class }}</p>
+    </div>
+    <p>
+         {{ .Params.description }}
+    </p>
+    {{ .Content }}
+</div>
+{{- end }}

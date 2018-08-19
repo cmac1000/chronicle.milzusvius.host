@@ -5,5 +5,3 @@
 "class": "Oath of Vengeance Paladin",
 "weight": "100"
 }
-
-Portia is an enigmatic figure. Her backstory and motivations, so far, can only be guessed at.

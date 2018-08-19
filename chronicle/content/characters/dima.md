@@ -5,5 +5,3 @@
 "class": "Beastmaster Ranger",
 "weight": "100"
 }
-
-Dima is an enigmatic figure. His backstory and motivations, so far, can only be guessed at.

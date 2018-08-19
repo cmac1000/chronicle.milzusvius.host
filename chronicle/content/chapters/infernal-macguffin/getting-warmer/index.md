@@ -9,7 +9,7 @@
     "title": "Getting Warmer"
 }
 
-Once Rogoma recovers a bit, the party decides to head onward to try and find Norah, the sister of [Barclay](/characters/barclay/) Skyless who might have more information on what went so wrong with the Skyless job.
+Once Rogoma recovers a bit, the party decides to head onward to try and find [Norah](/characters/norah/), the sister of [Barclay](/characters/barclay/) Skyless who might have more information on what went so wrong with the Skyless job.
 
 They head to a nearby travel tube, and one-by-one whisk down to to third level. Here, the street is quieter, and there are more abandoned buildings - old elvish writing is visible on some of the signs, mostly scratched out or covered up with a newer language, unknown to any of our heroes.
 
@@ -31,7 +31,7 @@ Norah, when they find her, seems to be a moderately prosperous dealer in magical
 
 Norah visibly stiffens at this and turns, "You know Barclay?"
 
-Not-very-tactfully, Ev lets Norah know that Barclay hired her for a recovery job, which went fine (at which [Dima](/characters/dima/) lets out an audible harumph), but delivery failed due to Barclay's unexpected exploding. Hearing of her brother's death, Norah seems distraught (although perhaps not shocked), and lets slip the name "Galrach!"
+Not-very-tactfully, Ev lets Norah know that Barclay hired her for a recovery job, which went fine (at which [Dima](/characters/dima/) lets out an audible harumph), but delivery failed due to Barclay's unexpected exploding. Hearing of her brother's death, Norah seems distraught (although perhaps not shocked), and lets slip the name "[Galrach](/characters/galrach/)!"
 
 She seems to oscillate between despair and a determination to begin a one-woman revenge-against-the-devils story arc - Zirfiel and Ev convince her that starting a war with the devils is unlikely to go well. She asks what the party suggests instead, and Ev tells her that if she'll be patient, our protagonists will do a bit of fact-finding, and see if they can come up with anything more concrete. She seems to find this persuasive, especially with Portia nodding sagely over her chainmail.
 

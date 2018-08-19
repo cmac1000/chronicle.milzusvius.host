@@ -19,7 +19,7 @@ Investigating the fallen wight, the party discovers an ancient epaulet - the sym
 
 Descending down the long, curving ramp, the party come to a broken section - just before the road falls away into the dark, a light shines from a doorway cut into the side wall. Composing himself, Zirfiel leads the way, strumming an old Infernal anthem on his lute. The party is greeted at the door by a pair of imps, tapping their little impish toes, and a bearded devil with a large guestbook.
 
-The party introduce themselves and ask to see Galrach, a barbed devil who is quite clearly sitting at a large desk at the end of the hallway. Zirfiel leads the entryway devil, briefly, in a performance of another Infernal standard, and disingenously (but convincingly) praises his performance. After a punctilously observed bureaucratic sequence of appointment-making, inter-office communications, and waiting in small antechambers, the party finds their way to the boss.
+The party introduce themselves and ask to see [Galrach](/characters/galrach/), a barbed devil who is quite clearly sitting at a large desk at the end of the hallway. Zirfiel leads the entryway devil, briefly, in a performance of another Infernal standard, and disingenously (but convincingly) praises his performance. After a punctilously observed bureaucratic sequence of appointment-making, inter-office communications, and waiting in small antechambers, the party finds their way to the boss.
 
 Zirfiel's been rehearsing this in his mind, and decides that he has two objectives:
 

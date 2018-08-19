@@ -5,5 +5,3 @@
 "class": "Assassin Rogue",
 "weight": "100"
 }
-
-Ev is an enigmatic figure. Her backstory and motivations, so far, can only be guessed at.

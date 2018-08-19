@@ -1,8 +1,6 @@
 {
-    "class": "Unknown",
-    "description": "very little is known about Luth",
+    "class": "Director, Special Tasks, Temple of St. Milsuzvius",
+    "description": "Luth is a high-level member of the Temple of St. Milsuzvius in Waterdeep, and runs the Special Tasks Group.",
     "title": "Luth",
-    "race": "Unknown"
+    "race": "Human"
 }
-
-Luth is an enigmatic figure. Their backstory and motivations, so far, can only be guessed at.

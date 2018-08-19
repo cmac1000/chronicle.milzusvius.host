@@ -28,7 +28,7 @@ class Transformer(object):
         return self.character_index == len(self.markdown[self.line_index]) - 1
 
     def _found_markdown_link(self):
-        return self.markdown[self.line_index][self.character_index] == '['
+        return self.markdown[self.line_index][self.character_index] == "["
 
     def _next_character(self):
         return self.markdown[self.line_index][self.character_index]
@@ -40,8 +40,9 @@ class Transformer(object):
         return self.beginning_of_name is not None
 
     def _get_current_substring(self):
-        return self.markdown[self.line_index][self.beginning_of_name:
-                                              self.character_index + 1]
+        return self.markdown[self.line_index][
+            self.beginning_of_name : self.character_index + 1
+        ]
 
     def _at_name_ending(self):
         substring = self._get_current_substring()
@@ -82,13 +83,14 @@ class Transformer(object):
             end_of_link = self.character_index
             while True:
                 end_of_link = end_of_link + 1
-                if self.markdown[self.line_index][end_of_link] == ')':
+                if self.markdown[self.line_index][end_of_link] == ")":
                     break
-            link_string = self.markdown[self.line_index][beginning_of_link:
-                                                         end_of_link + 1]
+            link_string = self.markdown[self.line_index][
+                beginning_of_link : end_of_link + 1
+            ]
 
-            if 'characters/' in link_string:
-                slug = link_string.split('characters/')[1].split('/')[0]
+            if "characters/" in link_string:
+                slug = link_string.split("characters/")[1].split("/")[0]
                 self.unseen_slugs.pop(self.unseen_slugs.index(slug))
 
             self.character_index = self.character_index + len(link_string)
@@ -106,13 +108,10 @@ class Transformer(object):
         elif self._scanning_for_name_ending():
             if self._at_name_ending():
                 substring = self._get_current_substring()
-                slug = self.unseen_slugs.pop(
-                    self.unseen_slugs.index(substring.lower()))
-                link_string = '[{}](/characters/{}/)'.format(substring, slug)
-                before = self.markdown[self.line_index][:
-                                                        self.beginning_of_name]
-                after = self.markdown[self.line_index][
-                    self.character_index + 1:]
+                slug = self.unseen_slugs.pop(self.unseen_slugs.index(substring.lower()))
+                link_string = "[{}](/characters/{}/)".format(substring, slug)
+                before = self.markdown[self.line_index][: self.beginning_of_name]
+                after = self.markdown[self.line_index][self.character_index + 1 :]
                 new_line = before + link_string + after
                 new_index = len(before + link_string)
                 self.markdown[self.line_index] = new_line
@@ -147,12 +146,12 @@ def find_json_boundaries(content):
     end_of_json = None
 
     for i, l in enumerate(content):
-        if l.strip() == '{':
+        if l.strip() == "{":
             beginning_of_json = i
             break
 
     for i, l in enumerate(content):
-        if l.strip() == '}' and beginning_of_json is not None:
+        if l.strip() == "}" and beginning_of_json is not None:
             end_of_json = i + 1
 
     if beginning_of_json is None or end_of_json is None:
@@ -167,8 +166,9 @@ def slugify(title):
 
 def extract_character_data(char_dir):
     paths = [
-        os.path.join(char_dir, filename) for filename in os.listdir(char_dir)
-        if filename != '_index.md'
+        os.path.join(char_dir, filename)
+        for filename in os.listdir(char_dir)
+        if filename != "_index.md"
     ]
 
     characters = []
@@ -177,10 +177,10 @@ def extract_character_data(char_dir):
             content = infile.readlines()
 
         beginning_of_json, end_of_json = find_json_boundaries(content)
-        json_string = ''.join(content[beginning_of_json:end_of_json])
+        json_string = "".join(content[beginning_of_json:end_of_json])
         serialized = json.loads(json_string)
-        if 'slug' not in serialized:
-            serialized['slug'] = slugify(serialized['title'])
+        if "slug" not in serialized:
+            serialized["slug"] = slugify(serialized["title"])
         characters.append(serialized)
 
     return characters
@@ -190,9 +190,9 @@ def get_chapter_paths(chap_dir):
     paths = []
     for root, dirs, files in os.walk(chap_dir):
         for filename in files:
-            if filename == '_index.md':
+            if filename == "_index.md":
                 continue
-            if filename[-3:] != '.md':
+            if filename[-3:] != ".md":
                 continue
             paths.append(os.path.join(root, filename))
 
@@ -201,18 +201,18 @@ def get_chapter_paths(chap_dir):
 
 def find_matching_name(word, characters, mentioned):
     for char in characters:
-        if mentioned[char['slug']]:
+        if mentioned[char["slug"]]:
             continue
-        if word.lower() == char['title'].split(' ')[0].lower():
-            return char['slug']
+        if word.lower() == char["title"].split(" ")[0].lower():
+            return char["slug"]
         # TODO 's form etc
 
     return False
 
 
 def generate_md_link(slug, name_parts):
-    name = ''.join(name_parts)
-    return '[{}](/characters/{})'.format(name, slug)
+    name = "".join(name_parts)
+    return "[{}](/characters/{})".format(name, slug)
 
 
 def ensure_cross_link(chapter_path, characters):
@@ -220,7 +220,7 @@ def ensure_cross_link(chapter_path, characters):
         content = infile.readlines()
 
     beginning_of_json, end_of_json = find_json_boundaries(content)
-    json_string = ''.join(content[beginning_of_json:end_of_json])
+    json_string = "".join(content[beginning_of_json:end_of_json])
 
     try:
         front_matter = json.loads(json_string)
@@ -231,32 +231,31 @@ def ensure_cross_link(chapter_path, characters):
 
     original_markdown = content[end_of_json:]
 
-    character_slugs = [c['slug'] for c in characters]
+    if not original_markdown:
+        print("empty content, skipping {}".format(chapter_path))
+        return None
+
+    character_slugs = [c["slug"] for c in characters]
 
     new_markdown = transform(original_markdown, character_slugs)
 
-    with open(chapter_path, 'w') as outfile:
-        json.dump(
-            front_matter,
-            outfile,
-            sort_keys=True,
-            indent=4,
-            ensure_ascii=False)
-        outfile.write('\n')
+    with open(chapter_path, "w") as outfile:
+        json.dump(front_matter, outfile, sort_keys=True, indent=4, ensure_ascii=False)
+        outfile.write("\n")
         [outfile.write(l) for l in new_markdown]
 
 
 def main():
     base_dir = get_base_dir()
-    char_dir = os.path.join(base_dir, 'chronicle/content/characters')
+    char_dir = os.path.join(base_dir, "chronicle/content/characters")
     characters = extract_character_data(char_dir)
 
-    chap_dir = os.path.join(base_dir, 'chronicle/content/chapters')
+    chap_dir = os.path.join(base_dir, "chronicle/content/chapters")
     chapters = get_chapter_paths(chap_dir)
 
     for chapter in chapters:
         ensure_cross_link(chapter, characters)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
